@@ -12,7 +12,7 @@
 ## ⏰TimeTracker
 [![wakatime](https://wakatime.com/badge/user/bee81210-2a19-4c98-8ca9-b50b243c294e.svg)](https://wakatime.com/@bee81210-2a19-4c98-8ca9-b50b243c294e)
 
-##✅ LEETCODE CHALLEGE 1/100
+## ✅LEETCODE CHALLEGE 1/100
 [Check my Leetcode](https://leetcode.com/u/andrushikk/)
 
 ## 📈 Статистика
