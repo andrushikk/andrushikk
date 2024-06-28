@@ -17,5 +17,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrushikk&layout=compact&theme=dark)
 
 ## 📫 Контакты
-- LinkedIn: [Твой LinkedIn](https://linkedin.com/in/твой-username)
-- Email: твой.email@example.com
+- Telegram: [Telegram](https://t.me/aandrushik)
+
