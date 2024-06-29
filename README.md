@@ -13,7 +13,7 @@
 [![wakatime](https://wakatime.com/badge/user/bee81210-2a19-4c98-8ca9-b50b243c294e.svg)](https://wakatime.com/@bee81210-2a19-4c98-8ca9-b50b243c294e)
 
 ## 🎯Challanges
-✅Leetcode challage 2/100 [Check my Leetcode](https://leetcode.com/u/andrushikk/)
+✅Leetcode challage 3/100 [Check my Leetcode](https://leetcode.com/u/andrushikk/)
 ✅PetProjects Challage 0/100 [Check Dashboard](https://github.com/users/andrushikk/projects/3/views/1)
 
 ## 📈 Статистика
